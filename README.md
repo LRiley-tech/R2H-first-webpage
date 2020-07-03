@@ -2,6 +2,6 @@
 
 > This GitHub is used to access my first webpage made for the Road to Hire program 
 
-> I will be making modification, if not this will just be used for my portfolio
+> This is a simple static page using basic HTML and CSS
 
-> You can look at my code but you will not be able to access my files
+> I hope this shows my growth throughout the Road to Hire program
